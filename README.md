@@ -10,7 +10,7 @@
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
-- I work on DevOps, Microservices, containers, and everything around it.
+- I work on DevOps,Containers,Observability and everything around it.
 - I’m looking to collaborate on **Cloud-native Projects**
 
 
@@ -18,7 +18,6 @@
 #### Programming Language Stack
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" title="bash" width="40 height="40" />
-<img src="https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e478yqmngne3m2yekn64nefazlvegjyhpbb4l2whh4m&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="python" title="python" width="40" height="40"/>  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" title="go" width="40" height="40"/> </p>
 
