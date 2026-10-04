@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Arjit Srivastava</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/arjit-srivastava77/" target="_blank" rel="noreferrer">Arjit</a> is a passionate DevOps Engineer, working on DevOps/SRE for 9+ years now.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/arjit-srivastava77/" target="_blank" rel="noreferrer">Arjit</a> is a passionate DevOps Engineer, working on DevOps/SRE for 12+ years now.</font></h3>
 
 
 <!-- GIF -->
